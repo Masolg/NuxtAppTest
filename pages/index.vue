@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1> Mathilde </h1>
+    <h1> Mathilde Solheim Grøtta </h1>
   </div>
 </template>
 
